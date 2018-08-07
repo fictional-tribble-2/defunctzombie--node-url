@@ -1,6 +1,6 @@
 # node-url
 
-[![Build Status](https://travis-ci.org/defunctzombie/node-url.svg?branch=master)](https://travis-ci.org/defunctzombie/node-url) [![GuardRails Staging badge](https://badges.staging.guardrails.io/fictional-tribble/defunctzombie--node-url.svg)](https://www.staging.guardrails.io)
+[![Build Status](https://travis-ci.org/defunctzombie/node-url.svg?branch=master)](https://travis-ci.org/defunctzombie/node-url) [![GuardRails Staging badge](https://badges.staging.guardrails.io/fictional-tribble/defunctzombie--node-url.svg)](https://www.staging.guardrails.io) [![GuardRails badge](https://badges.production.guardrails.io/fictional-tribble/defunctzombie--node-url.svg)](https://www.guardrails.io)
 
 This module has utilities for URL resolution and parsing meant to have feature parity with node.js core [url](http://nodejs.org/api/url.html) module.
 
